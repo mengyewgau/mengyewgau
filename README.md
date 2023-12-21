@@ -1,7 +1,6 @@
 ## Hey 👋
 I'm Meng Yew (Michael). I am a final year Business Analytics student at National University of Singapore, and thanks for coming to my Github page!
 
-### I can be found here!
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mengyewgau)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/mengyewgau)
 
