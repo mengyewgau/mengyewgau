@@ -5,11 +5,13 @@ I'm Meng Yew (Michael). I am a final year Business Analytics student at National
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/mengyewgau)
 
 ### I worked with these technologies!
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ruby,python,react,vue,nodejs,git,mysql&perline=5"/>
+
+<p align="left">
+  <a href="https://skillicons.dev" >
+    <img src="https://skillicons.dev/icons?i=java,js,ruby,python,react,vue,nodejs,git,mysql&perline=5" style="float: left;"/>
   </a>
 </p>
+<div style="clear: both;"></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengyewgau&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
