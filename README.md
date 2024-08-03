@@ -4,7 +4,7 @@ I'm Meng Yew (Michael) 👋
 
 <p align="left">
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=java,js,python,cpp&perline=5" style="float: left;"/>
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp&perline=5" style="float: left;"/>
   </a>
 </p>
 <div style="clear: both;"></div>
